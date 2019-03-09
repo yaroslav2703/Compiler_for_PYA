@@ -1,0 +1,21 @@
+FUNI JHG( PARS hgf){
+VARI asd;
+asd= 65*4;
+return(asd)}
+
+MAIN{
+VARS NV;
+VARS klo;
+VARF erop;
+erop = 76.4;
+erop = Fractpart(erop);
+Coutp("erop:" +erop);
+NV= "hello";
+VARI cvb;
+VARI gon;
+END}
+
+
+
+
+

@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  Construction.cpp
+  Error.cpp
+  FST.cpp
+  Generation.cpp
+  IT.cpp
+  In.cpp
+d:\яп\кп\compiler\pya-2018\pya-2018\in.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+  LexicalAnalysis.cpp
+d:\яп\кп\compiler\pya-2018\pya-2018\lexicalanalysis.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  Parm.cpp
+  Prohod.cpp
+  SintaxAnalysis.cpp
+  pya-2018.cpp
+  Создание кода...
+  pya-2018.vcxproj -> D:\ЯП\КП\compiler\pya-2018\Debug\pya-2018.exe

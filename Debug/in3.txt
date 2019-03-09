@@ -1,0 +1,11 @@
+FUNI bmhd( PARS hgf){
+VARI asd;
+asd= 65/3;
+return(asd)}
+
+MAIN{
+VARS NV;
+NV="Hello";
+VARI hol;
+hol = bmhd(NV);
+END}

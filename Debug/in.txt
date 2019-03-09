@@ -1,0 +1,34 @@
+FUNI JHG( PARS hgf, PARI lkr){
+VARI asd;
+asd= 65*lkr;
+return(asd)}
+
+MAIN{
+VARS NV;
+VARS klo;
+VARF erop;
+erop = 76.4;
+erop = Fractpart(erop);
+Coutp("erop:" +erop);
+NV= "hello";
+VARI cvb;
+VARI gon;
+gon = 3;
+cvb=67 + gon;
+cvb %= 10;
+VARI LKG;
+VARS srto;
+srto ="hello";
+LKG = Strlen(srto);
+Coutp("srto:" +LKG);
+LKG = 87;
+Coutp( cvb + "hello" );
+klo = Sconcat(srto , NV);
+Coutp("klo:" +klo);
+cvb++;
+LKG=JHG(NV, cvb);
+Coutp("result:" + LKG);
+END}
+
+
+

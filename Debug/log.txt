@@ -1,0 +1,60 @@
+
+----- Report ------ Date: Tue Dec 18 19:20:32 2018
+
+----- Options --------
+-in: in.txt
+-out: out.txt
+-log: log.txt
+---- Исходные данные ------
+Количество символов:   444
+Проигнорировано	   :  0
+Количество строк   :  34
+ ---- Token sequence ----
+(FI)(I;0)(()(AS)(I;1)(,)(AI)(I;2)())({)
+(VI)(I;3)(;)
+(I;3)(=)(CI)(*)(I;2)(;)
+(R)(()(I;3)())(})
+
+(FM)({)
+(VS)(I;4)(;)
+(VS)(I;5)(;)
+(VF)(I;6)(;)
+(I;6)(=)(CF)(;)
+(I;6)(=)(BF)(()(I;6)())(;)
+(W)(()(CS)(+)(I;6)())(;)
+(I;4)(=)(CS)(;)
+(VI)(I;7)(;)
+(VI)(I;8)(;)
+(I;8)(=)(CI)(;)
+(I;7)(=)(CI)(+)(I;8)(;)
+(I;7)(%)(=)(CI)(;)
+(VI)(I;9)(;)
+(VS)(I;10)(;)
+(I;10)(=)(CS)(;)
+(I;9)(=)(BR)(()(I;10)())(;)
+(W)(()(CS)(+)(I;9)())(;)
+(I;9)(=)(CI)(;)
+(W)(()(I;7)(+)(CS)())(;)
+(I;5)(=)(BC)(()(I;10)(,)(I;4)())(;)
+(W)(()(CS)(+)(I;5)())(;)
+(I;7)(+)(+)(;)
+(I;9)(=)(I;0)(()(I;4)(,)(I;7)())(;)
+(W)(()(CS)(+)(I;9)())(;)
+(E)(})
+
+
+
+ ---- Identifier table ----  
+N        Name         id type         value type 
+ 
+0	JHG	      function	      integer
+1	hgf	      parameter	      string
+2	lkr	      parameter	      integer
+3	asd	      variable	      integer
+4	NV	      variable	      string
+5	klo	      variable	      string
+6	erop	      variable	      float
+7	cvb	      variable	      integer
+8	gon	      variable	      integer
+9	LKG	      variable	      integer
+10	srto	      variable	      string

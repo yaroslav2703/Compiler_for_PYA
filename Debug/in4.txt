@@ -1,0 +1,19 @@
+FUNI bmhd( PARS hgf){
+VARI asd;
+asd= 65/5;
+return(asd)}
+
+FUNI QWER( PARI hgf, PARI kofg){
+VARI JK;
+JK = 5*23;
+return(JK)}
+
+MAIN{
+VARS NV;
+VARI mont;
+NV="Hello";
+VARI hol;
+hol = bmhd(NV);
+hol=23;
+mont = QWER(hol,hol);
+END}
